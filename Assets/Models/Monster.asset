@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c55ce2e169c3cbe48b09726d53b6fc92, type: 3}
+  m_Name: Monster
+  m_EditorClassIdentifier: 
+  speed: 0.86
+  runIndex: 2
+  jumpStrength: 4
+  healthPoints: 1
+  weapon: {fileID: 5129992449852968810, guid: 0655ef5b8f8f5d844ab58914be74f53e, type: 3}
